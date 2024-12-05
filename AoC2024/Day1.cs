@@ -28,7 +28,7 @@ public class Day1
             sum += Math.Abs(leftList[i] - rightList[i]);
         }
 
-        Console.WriteLine($"Task1: {sum}");
+        Console.WriteLine($"[Day1] Task1: {sum}");
 
         // Part 2
         var similarityScore = 0;
@@ -42,6 +42,6 @@ public class Day1
             }
         }
 
-        Console.WriteLine($"Task2: {similarityScore}");
+        Console.WriteLine($"[Day1] Task2: {similarityScore}");
     }
 }
