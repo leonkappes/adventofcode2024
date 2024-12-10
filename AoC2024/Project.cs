@@ -1,5 +1,4 @@
-﻿using System.Text.RegularExpressions;
-using AoC2024;
+﻿using AoC2024;
 
 //new Day1();
 //new Day2();
@@ -8,4 +7,5 @@ using AoC2024;
 //new Day5();
 //new Day6();
 //new Day7();
-new Day8();
+//new Day8();
+new Day9();
