@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC2024", "AoC2024\AoC2024.csproj", "{86AA617E-81A3-49BF-951D-884FDEEB6745}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day12", "Day12\Day12.csproj", "{BE95870D-02A9-4DF9-8734-B2CC1F5593DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{86AA617E-81A3-49BF-951D-884FDEEB6745}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86AA617E-81A3-49BF-951D-884FDEEB6745}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86AA617E-81A3-49BF-951D-884FDEEB6745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE95870D-02A9-4DF9-8734-B2CC1F5593DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE95870D-02A9-4DF9-8734-B2CC1F5593DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE95870D-02A9-4DF9-8734-B2CC1F5593DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE95870D-02A9-4DF9-8734-B2CC1F5593DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
